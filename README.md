@@ -102,7 +102,7 @@ Note that the class names should be fully qualified and escaped with double slas
 
 If you want to get the full Enlightn experience, it is recommended that you at least run Enlightn once in production. This is because several of Enlightn's checks are environment specific. So they may only be triggered when your app environment is production.
 
-In case you don't want to run on production, you can simulate a production environment by setting your APP_ENV to production, setting up services and config as close to production as possible and running your production deployment script locally. Then run the Enlightn Artisan command.
+In case you don't want to run on production, you can simulate a production environment by setting your APP_ENV to `production`, setting up services and config as close to production as possible and running your production deployment script locally. Then run the Enlightn Artisan command.
 
 ## View Detailed Error Messages
 
